@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2064870142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 834d02bbdfb6471c70da6f5c73052cd2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b2636b000e1f3ef3a3487216565c005d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75e7459110b9666449485c40f25362a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8077b76001d36d489868d20d28bddb9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyPrefab/DaTing/SettingPanel.prefab
+Dependencies:
+- e:/kawuxing/luaframework_ngui-master/assets/StreamingAssets/shared.unity3d

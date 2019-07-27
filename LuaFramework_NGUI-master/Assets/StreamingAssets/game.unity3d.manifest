@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 1142050829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f4de731f99edeed2192adf1aad5a534
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d26cdf64dfe084af8422accebcb86df7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75e7459110b9666449485c40f25362a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfa4a4a103e4fed43a7e9e9df4a6915c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 362962f32b6c9c04e8718a9cebb26321, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d166255cacf07b4292b8402b3ddefc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8077b76001d36d489868d20d28bddb9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyPrefab/Game/RightChuPrefab.prefab
+- Assets/_MyPrefab/Game/LeftChuPrefab.prefab
+- Assets/_MyPrefab/Game/MyPeng.prefab
+- Assets/_MyPrefab/Game/LeftHandMaJiang.prefab
+- Assets/_MyPrefab/Game/MyMaJiang.prefab
+- Assets/_MyPrefab/Game/RightHandMaJiang.prefab
+- Assets/_MyPrefab/Game/TopPeng.prefab
+- Assets/_MyPrefab/Game/GamePanel.prefab
+- Assets/_MyPrefab/Game/TopMaJiang.prefab
+- Assets/_MyPrefab/Game/RightChiPeng.prefab
+- Assets/_MyPrefab/Game/MyChuPrefab.prefab
+- Assets/_MyPrefab/Game/LeftChi.prefab
+- Assets/_MyPrefab/Game/TopChuPrefab.prefab
+Dependencies:
+- e:/kawuxing/luaframework_ngui-master/assets/StreamingAssets/shared.unity3d

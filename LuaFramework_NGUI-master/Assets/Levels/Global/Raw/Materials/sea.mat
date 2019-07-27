@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: sea
+  m_Shader: {fileID: 4800000, guid: eb5bd37382f39498f80b3163a9a976ea, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Reflect
+        second:
+          m_Texture: {fileID: 8900000, guid: f9de022f7be4b44bfbd83319275c34b7, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ReflectTex
+        second:
+          m_Texture: {fileID: 8900000, guid: f9de022f7be4b44bfbd83319275c34b7, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _NormalTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 290ecf2ed5f59d547a990e91367762c9, type: 3}
+          m_Scale: {x: 4, y: 4}
+          m_Offset: {x: 0, y: 0}
+    m_Floats: {}
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _BaseColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _BaseColor2
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _MainColor
+        second: {r: .110942923, g: .27866599, b: .397058845, a: .745098054}
+      data:
+        first:
+          name: _Speed
+        second: {r: .00800000038, g: 9.99999975e-05, b: -.00999999978, a: 0}
+      data:
+        first:
+          name: _MainColor2
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _MoveSpeed
+        second: {r: .00499999989, g: .00100000005, b: -.00400000019, a: -.00100000005}
